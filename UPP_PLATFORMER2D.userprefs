@@ -1,0 +1,37 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GameManager.cs">
+    <Files>
+      <File FileName="Assets\Scripts\TriggerDeath.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraFollow.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GameManager.cs" Line="115" Column="10" />
+      <File FileName="Assets\Scripts\CharacterMovement.cs" Line="73" Column="88" />
+      <File FileName="Assets\Scripts\AnimateCharacter.cs" Line="7" Column="35" />
+      <File FileName="Assets\Scripts\DestroyTimer.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Spawner.cs" Line="10" Column="1" />
+      <File FileName="Assets\Scripts\CheckpointTrigger.cs" Line="26" Column="30" />
+      <File FileName="Assets\Scripts\CollectiblePoints.cs" Line="36" Column="4" />
+      <File FileName="Assets\Scripts\LevelManager.cs" Line="32" Column="48" />
+      <File FileName="Assets\Scripts\CloudMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\LoadSceneWithSpacebar.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\FlashObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DroppingPlatform.cs" Line="23" Column="1" />
+      <File FileName="Assets\Scripts\WinTrigger.cs" Line="23" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="Assembly-CSharp" expanded="True">
+            <Node name="Scripts" expanded="True">
+              <Node name="GameManager.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
